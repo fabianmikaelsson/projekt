@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Easy Money</string>
+
+    <string name="menu_activity_btn_add_entry">Ny händelse</string>
+    <string name="menu_activity_show_all_entries">Visa alla händelser</string>
+
+    <string name="new_entry_description_of_activity">Här kan du registrera en ekonomisk händelse</string>
+    <string name="new_entry_income_radio">Inkomst</string>
+    <string name="new_entry_expense_radio">Utgift</string>
+    <string name="new_entry_tw_date">Datum</string>
+    <string name="new_entry_desc_of_entry">Beskrivning</string>
+    <string name="new_entry_tw_category">Kategori</string>
+    <string name="new_entry_tw_account">Konto</string>
+    <string name="new_entry_tw_total_sum">Belopp (inkl. moms)</string>
+    <string name="new_entry_btn_add_entry">Lägg till</string>
+
+    <string name="show_all_entries_acticity_btn_clear_entries">Rensa händelser</string>
+
+    <string name="item_layout_editText_date">Datum:</string>
+    <string name="item_layout_editText_account">Konto:</string>
+    <string name="item_layout_editText_total_sum">Totalt:</string>
+    <string name="item_layout_editText_category">Kategori:</string>
+    <string name="item_layout_editText_description">Beskrivning</string>
+
+    <string name="add_account_activity_textView_add_account_desc">Lägg till konto</string>
+    <string name="add_account_activity_textView_account_nr_desc">Konto nr</string>
+    <string name="add_account_activity_textView_account_name">Namn</string>
+    <string name="add_account_activity_textView_remove_account">Ta bort konto</string>
+    <string name="add_account_activity_button_remove_account">Ta bort</string>
+    <string name="add_account_activity_button_add_account">Lägg till konto</string>
+</resources>
